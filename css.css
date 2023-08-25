@@ -1,0 +1,12 @@
+:root {
+    --spring-green: #008B45;
+}
+
+h1 {
+    color: var(--spring-green);
+}
+
+h2 {
+    --white-color: white;
+    color: var(--white-color);
+}
